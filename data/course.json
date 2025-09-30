@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Fiction"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Criticism"
+    ]
+  ],
+  "legacy_uid": "ef024d97-01ce-b2af-7b1c-9a01437e11a6",
+  "instructors": {
+    "content": [
+      "1fc51353-62ad-303a-a545-ecea3beace97"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7e2e473e-c887-637a-5717-4c25ea700c25",
+    "website": "21l-003-2-reading-fiction-spring-2007"
+  },
+  "course_title": "Reading Fiction",
+  "hide_download": true,
+  "course_description": "Reading Fiction is designed to sharpen your skills as a critical reader. As we explore both short stories and novels focusing on the theme of \"the city in literature,\" we will learn about the various elements that shape the way we read texts - structure, narrative voice, character development, novelistic experimentation, historical and political contexts and reader response.\n",
+  "department_numbers": [
+    "21L"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21L.003-2",
+  "course_image_thumbnail": {
+    "content": "089e5937-e1af-d954-2945-ea9b9e123989",
+    "website": "21l-003-2-reading-fiction-spring-2007"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "2704158e-c67b-46f1-bf91-b5091a2e6373",
+  "site_short_id": "21l.003-2-spring-2007",
+  "site_url_path": "courses/21l-003-2-reading-fiction-spring-2007",
+  "title": "Course Metadata"
+}
